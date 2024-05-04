@@ -3,7 +3,7 @@
 ## Introduction
 A web server that can handle `HTTP` and `HTTPS` request concurrently.
 
-Implement parts of the HTTP/1.0 specification defined in (RFC1945)[https://www.ietf.org/rfc/rfc1945.txt].
+Implement parts of the HTTP/1.0 specification defined in [RFC1945][https://www.ietf.org/rfc/rfc1945.txt].
 
 Achieving a transfer rate of 3.6 GB/s.
 
